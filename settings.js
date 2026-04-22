@@ -1,9 +1,9 @@
 const settings = {
-  packname: '𝙲𝙷𝙰𝙼𝙿-𝙼𝙳',
-  author: '〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√',
-  botName: "𝙲𝙷𝙰𝙼𝙿-𝙼𝙳",
-  botOwner: '𝗢𝗧𝗙 𝗙𝗔𝗠𝗜𝗟𝗬', // Your name
-  ownerNumber: '22896231860', //Set your number here without + symbol, just add country code & number without any space
+  packname: '🐼 CYBER-PANDA-MD-V-0-11 🐼',
+  author: '🐼 CYBER-PANDA-MD-V-0-11 🐼',
+  botName: "🐼 CYBER-PANDA-MD-V-0-11 🐼",
+  botOwner: '🐼 CYBER-PANDA-MD-V-0-11 🐼', // Your name
+  ownerNumber: '+94702782946', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
